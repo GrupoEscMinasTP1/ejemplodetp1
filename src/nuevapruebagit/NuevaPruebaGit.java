@@ -18,6 +18,8 @@ public class NuevaPruebaGit {
         System.out.println("Hola Chivos");
         System.out.println("que hay de nuevo");
         // TODO code application logic here
+        
+        System.out.println("Vemos que pasa, esto viene desde gustsoprueba");
     }
     
 }

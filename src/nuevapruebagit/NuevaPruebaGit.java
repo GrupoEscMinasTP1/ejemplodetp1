@@ -16,6 +16,7 @@ public class NuevaPruebaGit {
      */
     public static void main(String[] args) {
         System.out.println("Hola Chivos");
+        System.out.println("que hay de nuevo");
         // TODO code application logic here
     }
     
